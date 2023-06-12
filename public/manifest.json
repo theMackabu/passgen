@@ -1,0 +1,16 @@
+{
+	"name": "Password Generator",
+	"short_name": "passgen",
+	"scope": ".",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#fafafa",
+	"background_color": "#fafafa",
+	"display": "standalone"
+}
